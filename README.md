@@ -1,24 +1,8 @@
-# Cross-Domain-Fake-Review-Detection# 🕵️‍♂️ Cross-Domain Fake Review Detection using Metadata (Amazon & Yelp)
+# Cross-Domain-Fake-Review-Detection#  Cross-Domain Fake Review Detection using Metadata (Amazon & Yelp)
 
 This project investigates fake review detection using classical machine learning models trained on metadata features rather than text. By evaluating performance across two different domains — **Amazon** and **Yelp** — it demonstrates the challenge of **domain shift** and shows how a small portion of target domain data can improve model adaptability through **fine-tuning**.
 
 ---
-
-## Table of Contents
-
-- [Overview](#-overview)
-- [Tech Stack](#-tech-stack)
-- [Models Used](#-models-used)
-- [Dataset Info](#-dataset-info)
-- [How to Run](#️-how-to-run)
-- [Experiments](#-experiments)
-- [Results](#-results)
-- [Learnings](#-learnings)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## Overview
 
 - Models were trained using the **Amazon Review** dataset and tested on the **Yelp Review** dataset.
