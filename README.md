@@ -71,8 +71,6 @@ This project investigates fake review detection using classical machine learning
 
 ## Results
 
-*(Sample values; replace with your real metrics if different)*
-
 | Model                | In-Domain (Amazon) | Cross-Domain (Yelp) | Fine-Tuned (Yelp) |
 |---------------------|--------------------|----------------------|--------------------|
 | Logistic Regression | 91.00%             | 62.00%               | 71.00%             |
