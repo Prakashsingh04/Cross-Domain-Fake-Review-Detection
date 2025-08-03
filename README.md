@@ -52,25 +52,6 @@ This project investigates fake review detection using classical machine learning
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/fake-review-detection.git
-    cd fake-review-detection
-    ```
-
-2. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the notebook:
-    ```bash
-    jupyter notebook "classical model-set-project.ipynb"
-    ```
-
----
 
 ## Experiments
 
